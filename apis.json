@@ -1,0 +1,58 @@
+{
+    "name": "Ecolabel Index",
+    "description": "Ecolabel Index is the independent global directory of ecolabels and environmental certification schemes.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/583-ecolabel-index.jpg",
+    "tags": [
+        "api provider",
+        "commerce",
+        "have api",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ecolabel-index\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Ecolabel Index",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/583-ecolabel-index.jpg",
+            "humanURL": "http:\/\/www.ecolabelindex.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ecolabel-index-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/www.ecolabelindex.com\/services\/rest\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.ecolabelindex.com\/ecolabelindex"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.ecolabelindex.com\/developers\/api\/"
+        },
+        {
+            "type": "Email",
+            "url": "support@ecolabelindex.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/ecolabels"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.ecolabelindex.com"
+        }
+    ]
+}
